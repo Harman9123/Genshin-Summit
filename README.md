@@ -5,7 +5,7 @@
   <img src="images/andrianarivo.png" alt="javascript" width="40" height="40"/>
   <br/>
 
-  <h3><b>Hi 👋, I'm Andrianarivo David</b></h3>
+  <h3><b>Hi 👋, Harman</b></h3>
 </div>
 
 <!-- TABLE OF CONTENTS -->
